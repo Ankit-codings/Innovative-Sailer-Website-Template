@@ -6,7 +6,7 @@ With a plethora of free resources available online, including tutorials, code sn
 
 Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
 
-Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
+Live Demo -  https://ankit-codings.github.io/Innovative-Sailer-Website-Template/
 
 Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
